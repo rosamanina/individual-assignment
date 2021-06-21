@@ -1,0 +1,35 @@
+welcome
+{
+    font-family: 'Ma Shan Zheng', cursive;
+    font-size: 100px
+}
+
+titletext
+{
+    font-family: 'Pangolin', cursive;
+    font-size: 60px
+}
+
+
+
+
+a:link, a:visited
+{
+    font-family: 'Pangolin', cursive;
+    background-color: grey;
+    color: white;
+    text-decoration: none;
+    padding: 1;
+    font-size: 40px
+}
+
+
+a:hover
+{
+    font-family: 'Pangolin', cursive;
+    background-color: rgb(8, 8, 253);
+    color: white;
+    text-decoration: none;
+    padding: 1;
+    font-size: 40px
+}
